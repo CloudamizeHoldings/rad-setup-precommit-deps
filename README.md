@@ -20,7 +20,7 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
-    - uses: cloudreach/rad-setup-precommit-deps@master
+    - uses: CloudamizeHoldings/rad-setup-precommit-deps@master
       name: Setup precommit dependencies
       with:
         tflint_version: v0.34.1

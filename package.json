@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloudreach/rad-setup-precommit-deps.git"
+    "url": "git+https://github.com/CloudamizeHoldings/rad-setup-precommit-deps.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cloudreach/rad-setup-precommit-deps/issues"
+    "url": "https://github.com/CloudamizeHoldings/rad-setup-precommit-deps/issues"
   },
-  "homepage": "https://github.com/cloudreach/rad-setup-precommit-deps#readme",
+  "homepage": "https://github.com/CloudamizeHoldings/rad-setup-precommit-deps#readme",
   "dependencies": {
     "@actions/core": "^1.10.1",
     "@actions/tool-cache": "^1.7.2"
