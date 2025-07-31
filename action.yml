@@ -1,6 +1,6 @@
 name: 'RAD Setup precommit dependencies'
 description: 'Sets up precommit dependencies in your GitHub Actions workflow'
-author: 'software@cloudreach.com'
+author: 'software@cloudamize.com'
 inputs:
   tflint_version:
     description: TFLint version to install
